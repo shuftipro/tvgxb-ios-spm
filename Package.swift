@@ -5,7 +5,7 @@ import PackageDescription
 let frameworkRepo = "tvgxb-ios-spm"
 let version = "1.0.0"
 let frameworkZip = "ShuftiPro.xcframework.zip"
-let checksumValue = "b63e5982770896b324f9eb6a362437e7ce02d64e20ff717abd275b89bae29200"
+let checksumValue = "1998551f6582fcda90e10026255b25ad0cf6955255bd8d7c95d28e074cdede99"
 let package = Package(
     name: "tvgxb-ios-spm",
     platforms: [
